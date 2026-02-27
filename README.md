@@ -64,11 +64,7 @@ Accurate prediction of movie review sentiment.
 Insight into text data distribution and preprocessing effects.
 
 Reusable model for future sentiment analysis tasks.
-![Uploading Screenshot 2026-02-26 231910.png…]()
-<img width="1902" height="870" alt="Screenshot 2026-02-26 231830" src="https://github.com/user-attachments/assets/973e6866-8f3c-42e4-b9a7-16586816e235" />
-<img width="1915" height="873" alt="Screenshot 2026-02-26 231749" src="https://github.com/user-attachments/assets/d0b4a4cc-1b3c-47fd-8c13-adf8787ba3f7" />
-<img width="1912" height="867" alt="Screenshot 2026-02-26 231727" src="https://github.com/user-attachments/assets/0b3593ef-74af-4432-8023-0a8bf16d9e81" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/76e66adb-f4b5-4f4a-9981-96e3b434f9fd" />
+
 <img width="576" height="455" alt="train_test" src="https://github.com/user-attachments/assets/da89d50e-c354-4d9f-8529-b37ade7e206a" />
 <img width="589" height="455" alt="Sentiment Distribution" src="https://github.com/user-attachments/assets/bc7fbe29-e546-472c-af96-463f92dbf929" />
 <img width="704" height="470" alt="Distribution" src="https://github.com/user-attachments/assets/31206ca6-0036-474e-a04f-6688baa2ff28" />
