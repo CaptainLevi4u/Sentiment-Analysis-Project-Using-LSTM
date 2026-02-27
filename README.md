@@ -65,14 +65,9 @@ Insight into text data distribution and preprocessing effects.
 
 Reusable model for future sentiment analysis tasks.
 <img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/7c3615dc-a782-418a-9572-2b3fedf81eb5" />
-<img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/7c3615dc-a782-418a-9572-2b3fedf81eb5" />
-<img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/2b7aa360-bf11-44aa-b446-040ebce1932c" />
 <img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/2b7aa360-bf11-44aa-b446-040ebce1932c" />
 <img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/d47b7d35-dc66-4bd5-be34-ca8503f076ed" />
-<img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/d47b7d35-dc66-4bd5-be34-ca8503f076ed" />
 <img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/28106158-38ac-4ff7-a479-46ea4f76230b" />
-<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/28106158-38ac-4ff7-a479-46ea4f76230b" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/ba4e91ea-cc0c-43df-b550-7fc69822c437" />
 <img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/ba4e91ea-cc0c-43df-b550-7fc69822c437" />
 
 <img width="576" height="455" alt="train_test" src="https://github.com/user-attachments/assets/da89d50e-c354-4d9f-8529-b37ade7e206a" />
