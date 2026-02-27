@@ -1,4 +1,5 @@
-#🚀 Sentiment Analysis on IMDB Reviews using LSTM | Deep Learning Project
+🚀 Sentiment Analysis on IMDB Reviews using LSTM | Deep Learning Project
+
 I’m excited to share my latest Deep Learning project where I built a Sentiment Analysis Model using a Long Short-Term Memory (LSTM) neural network to classify movie reviews as Positive or Negative.
 
 📌 Project Goal
