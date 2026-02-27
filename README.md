@@ -1,17 +1,3 @@
-<img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/0da86e47-b674-49c6-b711-816511581888" />
-<img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/0da86e47-b674-49c6-b711-816511581888" />
-<img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/95914803-bd4f-46bc-8e6f-8b53bd651694" />
-<img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/95914803-bd4f-46bc-8e6f-8b53bd651694" />
-<img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/c6478a9a-5fdd-425e-96bd-20dabb8adaf1" />
-<img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/c6478a9a-5fdd-425e-96bd-20dabb8adaf1" />
-<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/408418ee-cf4d-4d67-82c0-4a2beaa7c470" />
-<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/408418ee-cf4d-4d67-82c0-4a2beaa7c470" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/c8f7a27b-eaf0-4b7e-abe0-b4ea0d723fb5" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/c8f7a27b-eaf0-4b7e-abe0-b4ea0d723fb5" />
-<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/6259b476-2afe-409c-897d-c1bc1c062dc9" />
-<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/6259b476-2afe-409c-897d-c1bc1c062dc9" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/5d97084d-ebf9-49b2-bd51-94f2e26b790b" />
-<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/5d97084d-ebf9-49b2-bd51-94f2e26b790b" />
 # Sentiment-Analysis-Project-Using-LSTM
 using a Long Short-Term Memory (LSTM) neural network. The goal is to classify reviews as positive or negative, leveraging deep learning techniques for natural language processing (NLP)
 Project Overview:
@@ -78,6 +64,16 @@ Accurate prediction of movie review sentiment.
 Insight into text data distribution and preprocessing effects.
 
 Reusable model for future sentiment analysis tasks.
+<img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/7c3615dc-a782-418a-9572-2b3fedf81eb5" />
+<img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/7c3615dc-a782-418a-9572-2b3fedf81eb5" />
+<img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/2b7aa360-bf11-44aa-b446-040ebce1932c" />
+<img width="1902" height="862" alt="Screenshot 2026-02-27 031504" src="https://github.com/user-attachments/assets/2b7aa360-bf11-44aa-b446-040ebce1932c" />
+<img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/d47b7d35-dc66-4bd5-be34-ca8503f076ed" />
+<img width="1916" height="853" alt="Screenshot 2026-02-27 031344" src="https://github.com/user-attachments/assets/d47b7d35-dc66-4bd5-be34-ca8503f076ed" />
+<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/28106158-38ac-4ff7-a479-46ea4f76230b" />
+<img width="1917" height="833" alt="Screenshot 2026-02-27 031311" src="https://github.com/user-attachments/assets/28106158-38ac-4ff7-a479-46ea4f76230b" />
+<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/ba4e91ea-cc0c-43df-b550-7fc69822c437" />
+<img width="1444" height="127" alt="Screenshot 2026-02-27 030621" src="https://github.com/user-attachments/assets/ba4e91ea-cc0c-43df-b550-7fc69822c437" />
 
 <img width="576" height="455" alt="train_test" src="https://github.com/user-attachments/assets/da89d50e-c354-4d9f-8529-b37ade7e206a" />
 <img width="589" height="455" alt="Sentiment Distribution" src="https://github.com/user-attachments/assets/bc7fbe29-e546-472c-af96-463f92dbf929" />
