@@ -1,67 +1,78 @@
-# Sentiment-Analysis-Project-Using-LSTM
-using a Long Short-Term Memory (LSTM) neural network. The goal is to classify reviews as positive or negative, leveraging deep learning techniques for natural language processing (NLP)
-Project Overview:
-This project aims to perform sentiment analysis on movie reviews from the IMDB Dataset using a Long Short-Term Memory (LSTM) neural network. The goal is to classify reviews as positive or negative, leveraging deep learning techniques for natural language processing (NLP).
+#🚀 Sentiment Analysis on IMDB Reviews using LSTM | Deep Learning Project
+I’m excited to share my latest Deep Learning project where I built a Sentiment Analysis Model using a Long Short-Term Memory (LSTM) neural network to classify movie reviews as Positive or Negative.
 
-Key Features:
+📌 Project Goal
+Leverage Deep Learning techniques in Natural Language Processing (NLP) to accurately predict sentiment from raw text reviews.
 
-Preprocessing text data by removing stopwords, URLs, and converting text to lowercase.
+🔍 Project Highlights
 
-Encoding sentiment labels (positive → 1, negative → 0).
+✅ Text preprocessing (removing stopwords, URLs, lowercasing)
+✅ Encoding labels (Positive → 1, Negative → 0)
+✅ Tokenization & sequence padding
+✅ LSTM architecture with Embedding layer
+✅ Dropout for regularization
+✅ Early Stopping to prevent overfitting
+✅ Data visualization (class distribution & text length distribution)
+✅ Model evaluation on unseen test data
+✅ Saving trained model & tokenizer for future inference
 
-Splitting data into training and testing sets for evaluation.
+🛠 Tools & Technologies
 
-Tokenizing text and padding sequences to feed into LSTM.
+Python
 
-Building an LSTM model with embedding layers, dropout for regularization, and a sigmoid output layer for binary classification.
+Pandas & NumPy
 
-Early stopping during training to prevent overfitting.
+Matplotlib & Seaborn
 
-Visualizing text length distribution, class distribution, and training/validation accuracy.
+NLTK
 
-Evaluating the model on test data to measure performance.
+Scikit-learn
 
-Saving the trained model and tokenizer for future inference.
+TensorFlow / Keras
 
-Tools & Libraries Used:
+Pickle
 
-Python – Programming language
+⚙️ Model Architecture
 
-Pandas & Numpy – Data handling and preprocessing
+Embedding Layer → LSTM Layer → Dropout → Dense (Sigmoid)
 
-Matplotlib & Seaborn – Visualization
+The model was trained using Early Stopping to avoid overfitting and improve generalization.
 
-NLTK – Text preprocessing and stopwords removal
+🎯 Challenges I Faced & How I Solved Them
 
-Scikit-learn – Train-test split
+🔹 1. Overfitting
+At first, the model performed very well on training data but slightly worse on validation data.
+✔ Solution: Added Dropout layers and implemented Early Stopping.
 
-TensorFlow / Keras – Deep Learning, LSTM implementation
+🔹 2. Handling Variable-Length Text
+IMDB reviews have highly variable lengths.
+✔ Solution: Applied sequence padding to ensure uniform input size.
 
-Pickle – Saving trained model and tokenizer
+🔹 3. Noise in Text Data
+URLs, stopwords, and inconsistent formatting affected model performance.
+✔ Solution: Applied thorough preprocessing using NLTK and regex cleaning.
 
-Workflow / Steps:
+🔹 4. Choosing Proper Max Sequence Length
+Too short → loss of context.
+Too long → unnecessary computation.
+✔ Solution: Analyzed text length distribution before selecting max_length.
 
-Load and Explore Dataset: Read the IMDB dataset and check for missing values and duplicates.
+📊 Results
 
-Data Cleaning: Remove duplicates, stopwords, and URLs; convert text to lowercase.
+✔ Strong accuracy on test dataset
+✔ Good generalization between training & validation
+✔ Clean and reusable pipeline for future NLP tasks
 
-Data Visualization: Plot sentiment distribution and text length distribution to understand dataset.
+(📸 Check the attached output screenshots for training curves & evaluation metrics.)
 
-Text Tokenization: Convert text reviews to sequences of integers and pad them to uniform length.
+🔮 Future Improvements
 
-Build LSTM Model: Create a sequential model with embedding layer → LSTM layer → Dense output.
-
-Training: Train the model with early stopping to prevent overfitting.
-
-Evaluation: Test the model on unseen data and compute accuracy and loss.
-
-Save Model & Tokenizer: Persist the trained model and tokenizer for future predictions.
-
-Expected Outcome:
-
-Accurate prediction of movie review sentiment.
-
-Insight into text data distribution and preprocessing effects.
+🚀 Implement Bidirectional LSTM
+🚀 Try GRU and compare performance
+🚀 Fine-tune a Transformer model (BERT)
+🚀 Deploy the model as a REST API
+🚀 Build a Streamlit web app for live predictions
+🚀 Apply the pipeline to Arabic sentiment datasets
 
 Reusable model for future sentiment analysis tasks.
 <img width="1916" height="814" alt="Screenshot 2026-02-27 031534" src="https://github.com/user-attachments/assets/7c3615dc-a782-418a-9572-2b3fedf81eb5" />
