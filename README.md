@@ -64,7 +64,7 @@ Too long → unnecessary computation.
 ✔ Good generalization between training & validation
 ✔ Clean and reusable pipeline for future NLP tasks
 
-(📸 Check the attached output screenshots for training curves & evaluation metrics.)
+(📸 Check the attached output screenshots.)
 
 🔮 Future Improvements
 
@@ -72,7 +72,6 @@ Too long → unnecessary computation.
 🚀 Try GRU and compare performance
 🚀 Fine-tune a Transformer model (BERT)
 🚀 Deploy the model as a REST API
-🚀 Build a Streamlit web app for live predictions
 🚀 Apply the pipeline to Arabic sentiment datasets
 
 Reusable model for future sentiment analysis tasks.
